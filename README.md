@@ -15,6 +15,7 @@ const tiago = {
     english: 'write/read',
     espanol: 'leer/oír'
   },
+  cloud: ['AWS']
   challenge: 'Improve my skills with Angular, Node, English y Espanõl'
 };
 ```
