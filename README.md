@@ -9,7 +9,7 @@
 const tiago = {
   code: ['JavaScript', 'TypeScript', 'HTML', 'Python', 'PHP', 'SQL', 'C#', 'VB.NET', 'Perl'],
   db: ['Mysql', 'MongoDB', 'Postgresql'],
-  tools: ['Angular', 'Node'],
+  tools: ['Angular', 'Node', 'Jquery', 'Bootstrap 4'],
   os: ['Windows', 'Debian', 'Ubuntu Server', 'Kali', 'openSUSE'],
   language:  {
     english: 'write/read',
