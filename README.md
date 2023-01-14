@@ -9,13 +9,13 @@
 const tiago = {
   code: ['JavaScript', 'TypeScript', 'HTML', 'Python', 'PHP', 'SQL', 'C#', 'VB.NET', 'Perl'],
   db: ['Mysql', 'MongoDB', 'Postgresql'],
-  tools: ['Angular', 'Node', 'Jquery', 'Bootstrap 4'],
+  tools: ['Django', 'Node', 'Jquery', 'Bootstrap 4'],
   os: ['Windows', 'Debian', 'Ubuntu Server', 'Kali', 'openSUSE'],
   language:  {
     english: 'write/read',
     espanol: 'leer/oír'
   },
   cloud: ['AWS']
-  challenge: 'Improve my skills with Angular, Node, English y Espanõl'
+  challenge: 'Improve my skills with Django, Node, English y Espanõl'
 };
 ```
