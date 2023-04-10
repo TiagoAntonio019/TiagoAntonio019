@@ -7,9 +7,9 @@
 #### A little more about me...
 ```javascript
 const tiago = {
-  code: ['JavaScript', 'HTML', 'Python', 'PHP', 'SQL', 'C#', 'VB.NET', 'Perl'],
+  code: ['JavaScript', 'HTML', 'PHP', 'SQL', 'C#', 'VB.NET', 'Python', 'Perl'],
   db: ['Mysql', 'MongoDB', 'Postgresql'],
-  tools: ['Django', 'Laravel 9', 'Jquery', 'Bootstrap 5'],
+  tools: ['Django', 'Laravel 9', 'Jquery', 'Bootstrap 4'],
   os: ['Windows', 'Debian', 'Ubuntu Server', 'Kali', 'openSUSE'],
   language:  {
     english: 'write/read',
